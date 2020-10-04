@@ -1,5 +1,5 @@
 baseurl = "https://guineapig.netlify.app/"
-title = "Cool Dog Guy"
+title = "so hot today"
 
 theme = "hugo-coder"
 
@@ -17,11 +17,11 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Cool Dogs Guy"
-    description = "Cool Dog Guy's Personal Website"
+    author = "This ain't working"
+    description = "I love chicken"
     keywords = "blog,developer,personal,hacker,student"
     info = "Dog Enthuasiast and student"
-    avatarurl = "images/me.jpg"
+    avatarurl = "images/mp.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
